@@ -1,0 +1,4 @@
+word=input("enter the word")
+list1=[i for i in word if i in('A','E','I','O','U','a','e','i','o','u')]
+print("list of vowels seperated from a given word is:",list1)
+    
