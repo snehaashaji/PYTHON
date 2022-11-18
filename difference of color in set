@@ -1,0 +1,7 @@
+color1=set(['white','black','red','yellow'])
+color2=set(['red','green'])
+print("orginal set elements:")
+print(color1)
+print(color2)
+print("diff of color1 on color2")
+print(color1.difference(color2))
