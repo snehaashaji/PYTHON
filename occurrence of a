@@ -1,0 +1,5 @@
+l=['varsha','reema','rincy','paru']
+total=0
+for i in l:
+    total=total+i.count('a')
+print("occurrence of a is",total)
